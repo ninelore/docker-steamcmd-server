@@ -1,3 +1,6 @@
+## Please look in the branches to see all games available so far for SteamCMD - also the Master branch is suitable for multiple games CS:Source, CS:GO,...
+
+
 # SteamCMD in Docker optimized for Unraid
 This Docker will download and install SteamCMD. It will also install Counter-Strike: Source and run it. Update Notice: Simply restart the container if a newer version of the game is available.
 
